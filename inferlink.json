@@ -1,0 +1,1302 @@
+{
+  "117": {
+    "$325": {
+      "begin_index": 14045, 
+      "end_index": 14047, 
+      "extract": "25", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 13999, 
+      "end_index": 14010, 
+      "extract": "Pia de Jong", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14031, 
+      "end_index": 14040, 
+      "extract": "Norton <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14048, 
+      "end_index": 14052, 
+      "extract": "95 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18792, 
+      "end_index": 18815, 
+      "extract": "A mother always knows", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18902, 
+      "end_index": 18919, 
+      "extract": "Deborah Hopkinson", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": 14060, 
+      "end_index": 14075, 
+      "extract": "9780393609158", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": 14093, 
+      "end_index": 14101, 
+      "extract": "11/2017", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "118": {
+    "$325": {
+      "begin_index": 14176, 
+      "end_index": 14178, 
+      "extract": "28", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 14124, 
+      "end_index": 14143, 
+      "extract": "Edward Kelsey Moore", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14164, 
+      "end_index": 14171, 
+      "extract": "Holt <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14179, 
+      "end_index": 14183, 
+      "extract": "00 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18885, 
+      "end_index": 18909, 
+      "extract": "A heartwarming reprise", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18996, 
+      "end_index": 19014, 
+      "extract": "Stephenie Harrison", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "123": {
+    "$325": {
+      "begin_index": 14133, 
+      "end_index": 14135, 
+      "extract": "26", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 14068, 
+      "end_index": 14084, 
+      "extract": "Mandy Len Catron", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14105, 
+      "end_index": 14128, 
+      "extract": "Simon &amp; Schuster <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14136, 
+      "end_index": 14140, 
+      "extract": "00 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18818, 
+      "end_index": 18835, 
+      "extract": "Don't look away", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18922, 
+      "end_index": 18934, 
+      "extract": "Amy Scribner", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "125": {
+    "$325": {
+      "begin_index": 14129, 
+      "end_index": 14131, 
+      "extract": "26", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 14077, 
+      "end_index": 14094, 
+      "extract": "John Pfordresher", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14115, 
+      "end_index": 14124, 
+      "extract": "Norton <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14132, 
+      "end_index": 14136, 
+      "extract": "95 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18834, 
+      "end_index": 18862, 
+      "extract": "The woman behind the words", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18949, 
+      "end_index": 18962, 
+      "extract": "Deborah Mason", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "126": {
+    "$325": {
+      "begin_index": 14081, 
+      "end_index": 14083, 
+      "extract": "25", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 14023, 
+      "end_index": 14039, 
+      "extract": "Alexandra Fuller", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14060, 
+      "end_index": 14076, 
+      "extract": "Penguin Press <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14084, 
+      "end_index": 14088, 
+      "extract": "00 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18834, 
+      "end_index": 18885, 
+      "extract": "A quietly powerful story of two lives intertwined", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18972, 
+      "end_index": 18985, 
+      "extract": "Melissa Brown", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "136": {
+    "$325": {
+      "begin_index": 14152, 
+      "end_index": 14154, 
+      "extract": "16", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 14092, 
+      "end_index": 14112, 
+      "extract": "Frank Cottrell Boyce", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14133, 
+      "end_index": 14147, 
+      "extract": "Walden Pond <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14155, 
+      "end_index": 14159, 
+      "extract": "99 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18870, 
+      "end_index": 18893, 
+      "extract": "An Earth worth saving", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18980, 
+      "end_index": 18993, 
+      "extract": "Kevin Delecki", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "137": {
+    "$325": {
+      "begin_index": 14048, 
+      "end_index": 14050, 
+      "extract": "25", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 13993, 
+      "end_index": 14007, 
+      "extract": "Cate Lineberry", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14028, 
+      "end_index": 14043, 
+      "extract": "St. Martin's <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14051, 
+      "end_index": 14055, 
+      "extract": "99 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18876, 
+      "end_index": 18908, 
+      "extract": "Heroism, bravery and rebellion", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18994, 
+      "end_index": 19007, 
+      "extract": "Edward Morris", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "141": {
+    "$325": {
+      "begin_index": 14012, 
+      "end_index": 14014, 
+      "extract": "27", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 13965, 
+      "end_index": 13978, 
+      "extract": "Daryl Gregory", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 13999, 
+      "end_index": 14007, 
+      "extract": "Knopf <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14015, 
+      "end_index": 14019, 
+      "extract": "95 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18824, 
+      "end_index": 18852, 
+      "extract": "More powers, more problems", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18939, 
+      "end_index": 18954, 
+      "extract": "Matthew Jackson", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "142": {
+    "$325": {
+      "begin_index": 14110, 
+      "end_index": 14112, 
+      "extract": "26", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 14061, 
+      "end_index": 14075, 
+      "extract": "Siobhan Fallon", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14096, 
+      "end_index": 14105, 
+      "extract": "Putnam <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14113, 
+      "end_index": 14117, 
+      "extract": "00 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18869, 
+      "end_index": 18896, 
+      "extract": "Reading between the lines", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18983, 
+      "end_index": 18997, 
+      "extract": "Michael Magras", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "145": {
+    "$325": {
+      "begin_index": 14063, 
+      "end_index": 14065, 
+      "extract": "16", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 13949, 
+      "end_index": 14021, 
+      "extract": "Dev Petty</a> and <a href=\"/search?book_author_id=12734\">Lauren Eldridge", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14042, 
+      "end_index": 14058, 
+      "extract": "Little, Brown <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14066, 
+      "end_index": 14070, 
+      "extract": "99 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18758, 
+      "end_index": 18784, 
+      "extract": "The art of self-creation", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18871, 
+      "end_index": 18882, 
+      "extract": "Norah Piehl", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "146": {
+    "$325": {
+      "begin_index": 14015, 
+      "end_index": 14017, 
+      "extract": "16", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 13962, 
+      "end_index": 13973, 
+      "extract": "Mandy Davis", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 13994, 
+      "end_index": 14010, 
+      "extract": "HarperCollins <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14018, 
+      "end_index": 14022, 
+      "extract": "99 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18710, 
+      "end_index": 18731, 
+      "extract": "Prepare for liftoff", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18818, 
+      "end_index": 18828, 
+      "extract": "Anita Lock", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "147": {
+    "$325": {
+      "begin_index": 13997, 
+      "end_index": 13999, 
+      "extract": "26", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 13952, 
+      "end_index": 13963, 
+      "extract": "Ben Mezrich", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 13984, 
+      "end_index": 13992, 
+      "extract": "Atria <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14000, 
+      "end_index": 14004, 
+      "extract": "00 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18732, 
+      "end_index": 18756, 
+      "extract": "The tip of the iceberg", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18844, 
+      "end_index": 18866, 
+      "extract": "Becky Libourel Diamond", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": 14012, 
+      "end_index": 14027, 
+      "extract": "9781501135552", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": 14045, 
+      "end_index": 14053, 
+      "extract": "04/2017", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "148": {
+    "$325": {
+      "begin_index": 14118, 
+      "end_index": 14120, 
+      "extract": "26", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 14066, 
+      "end_index": 14083, 
+      "extract": "Inara Verzemnieks", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14104, 
+      "end_index": 14113, 
+      "extract": "Norton <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14121, 
+      "end_index": 14125, 
+      "extract": "95 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18878, 
+      "end_index": 18910, 
+      "extract": "An ode to grief and resilience", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18997, 
+      "end_index": 19010, 
+      "extract": "Anne Bartlett", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": 14133, 
+      "end_index": 14148, 
+      "extract": "9780393245110", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": 14166, 
+      "end_index": 14174, 
+      "extract": "11/2017", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "149": {
+    "$325": {
+      "begin_index": 14093, 
+      "end_index": 14095, 
+      "extract": "25", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 14045, 
+      "end_index": 14058, 
+      "extract": "Matthew Quick", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14079, 
+      "end_index": 14088, 
+      "extract": "Harper <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14096, 
+      "end_index": 14100, 
+      "extract": "99 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18784, 
+      "end_index": 18820, 
+      "extract": "The winter of one man's discontent", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18907, 
+      "end_index": 18918, 
+      "extract": "Tom Deignan", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": 14108, 
+      "end_index": 14123, 
+      "extract": "9780062424303", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": 14141, 
+      "end_index": 14149, 
+      "extract": "04/2017", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "150": {
+    "$325": {
+      "begin_index": 14085, 
+      "end_index": 14087, 
+      "extract": "26", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 14028, 
+      "end_index": 14048, 
+      "extract": "Ian Bassingthwaighte", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14069, 
+      "end_index": 14080, 
+      "extract": "Scribner <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14088, 
+      "end_index": 14092, 
+      "extract": "00 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18762, 
+      "end_index": 18783, 
+      "extract": "A face in the crowd", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18870, 
+      "end_index": 18885, 
+      "extract": "Deborah Donovan", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": 14100, 
+      "end_index": 14115, 
+      "extract": "9781501146879", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": 14133, 
+      "end_index": 14141, 
+      "extract": "11/2017", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "151": {
+    "$325": {
+      "begin_index": 14144, 
+      "end_index": 14146, 
+      "extract": "13", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 14087, 
+      "end_index": 14100, 
+      "extract": "Joe Ballarini", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14121, 
+      "end_index": 14139, 
+      "extract": "Katherine Tegen <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14147, 
+      "end_index": 14151, 
+      "extract": "99 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18869, 
+      "end_index": 18893, 
+      "extract": "Buffy meets Goosebumps", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18980, 
+      "end_index": 18993, 
+      "extract": "Annie Metcalf", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": -1, 
+      "end_index": -1, 
+      "extract": "", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "152": {
+    "$325": {
+      "begin_index": 13962, 
+      "end_index": 13964, 
+      "extract": "26", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 13910, 
+      "end_index": 13920, 
+      "extract": "Paul Lynch", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 13941, 
+      "end_index": 13957, 
+      "extract": "Little, Brown <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 13965, 
+      "end_index": 13969, 
+      "extract": "00 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18710, 
+      "end_index": 18730, 
+      "extract": "One girl's odyssey", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18817, 
+      "end_index": 18828, 
+      "extract": "Hope Racine", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": 13977, 
+      "end_index": 13992, 
+      "extract": "9780316316309", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": 14010, 
+      "end_index": 14018, 
+      "extract": "11/2017", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "153": {
+    "$325": {
+      "begin_index": 14028, 
+      "end_index": 14030, 
+      "extract": "26", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 13974, 
+      "end_index": 13989, 
+      "extract": "Claire McMillan", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14010, 
+      "end_index": 14023, 
+      "extract": "Touchstone <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14031, 
+      "end_index": 14035, 
+      "extract": "00 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18712, 
+      "end_index": 18744, 
+      "extract": "Family feuds and family jewels", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18831, 
+      "end_index": 18845, 
+      "extract": "Arlene McKanic", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": 14043, 
+      "end_index": 14058, 
+      "extract": "9781501165047", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": 14076, 
+      "end_index": 14084, 
+      "extract": "04/2017", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "154": {
+    "$325": {
+      "begin_index": 14067, 
+      "end_index": 14069, 
+      "extract": "26", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 14018, 
+      "end_index": 14031, 
+      "extract": "Ashley Shelby", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14052, 
+      "end_index": 14062, 
+      "extract": "Picador <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14070, 
+      "end_index": 14074, 
+      "extract": "00 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18747, 
+      "end_index": 18785, 
+      "extract": "Finding hope at the end of the world", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18872, 
+      "end_index": 18887, 
+      "extract": "Chika Gujarathi", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": 14082, 
+      "end_index": 14097, 
+      "extract": "9781250112828", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": 14115, 
+      "end_index": 14123, 
+      "extract": "03/2017", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "155": {
+    "$325": {
+      "begin_index": 14043, 
+      "end_index": 14045, 
+      "extract": "26", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 13993, 
+      "end_index": 14005, 
+      "extract": "Monica Hesse", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14026, 
+      "end_index": 14038, 
+      "extract": "Liveright <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14046, 
+      "end_index": 14050, 
+      "extract": "95 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18718, 
+      "end_index": 18742, 
+      "extract": "Burning down the house", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18828, 
+      "end_index": 18838, 
+      "extract": "Alice Cary", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": 14058, 
+      "end_index": 14073, 
+      "extract": "9781631490514", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": 14091, 
+      "end_index": 14099, 
+      "extract": "11/2017", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "159": {
+    "$325": {
+      "begin_index": 14182, 
+      "end_index": 14184, 
+      "extract": "26", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 14065, 
+      "end_index": 14140, 
+      "extract": "Hendrik Groen</a> and <a href=\"/search?book_author_id=12711\">Hester Velmans", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14161, 
+      "end_index": 14177, 
+      "extract": "Grand Central <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14185, 
+      "end_index": 14189, 
+      "extract": "00 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18877, 
+      "end_index": 18912, 
+      "extract": "Keeping rust off the golden years", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18999, 
+      "end_index": 19015, 
+      "extract": "Carrie Rollwagen", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": 14197, 
+      "end_index": 14212, 
+      "extract": "9781455542178", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": 14230, 
+      "end_index": 14238, 
+      "extract": "11/2017", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "162": {
+    "$325": {
+      "begin_index": 14142, 
+      "end_index": 14144, 
+      "extract": "16", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 14031, 
+      "end_index": 14103, 
+      "extract": "A.F. Harrold</a> and <a href=\"/search?book_author_id=12736\">Levi Pinfold", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14124, 
+      "end_index": 14137, 
+      "extract": "Bloomsbury <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14145, 
+      "end_index": 14149, 
+      "extract": "99 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18856, 
+      "end_index": 18891, 
+      "extract": "An unexpected, uncanny friendship", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18978, 
+      "end_index": 18993, 
+      "extract": "Sharon Verbeten", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": 14157, 
+      "end_index": 14172, 
+      "extract": "9781681194011", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": 14190, 
+      "end_index": 14198, 
+      "extract": "03/2017", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "163": {
+    "$325": {
+      "begin_index": 14020, 
+      "end_index": 14022, 
+      "extract": "17", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 13961, 
+      "end_index": 13978, 
+      "extract": "Antoinette Portis", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 13999, 
+      "end_index": 14015, 
+      "extract": "Roaring Brook <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14023, 
+      "end_index": 14027, 
+      "extract": "99 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18709, 
+      "end_index": 18744, 
+      "extract": "A beginner's guide to mindfulness", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18831, 
+      "end_index": 18846, 
+      "extract": "Julie Danielson", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": 14035, 
+      "end_index": 14050, 
+      "extract": "9781626721371", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": 14068, 
+      "end_index": 14076, 
+      "extract": "11/2017", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "164": {
+    "$325": {
+      "begin_index": 14018, 
+      "end_index": 14020, 
+      "extract": "35", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 13960, 
+      "end_index": 13969, 
+      "extract": "Jon Kukla", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 13990, 
+      "end_index": 14013, 
+      "extract": "Simon &amp; Schuster <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14021, 
+      "end_index": 14025, 
+      "extract": "00 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18839, 
+      "end_index": 18862, 
+      "extract": "The life of a patriot", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18948, 
+      "end_index": 18960, 
+      "extract": "Roger Bishop", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": 14033, 
+      "end_index": 14048, 
+      "extract": "9781439190814", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": 14066, 
+      "end_index": 14074, 
+      "extract": "04/2017", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "165": {
+    "$325": {
+      "begin_index": 14228, 
+      "end_index": 14230, 
+      "extract": "27", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 14058, 
+      "end_index": 14187, 
+      "extract": "Naoki Higashida</a>, <a href=\"/search?book_author_id=12723\">KA Yoshida</a>, <a href=\"/search?book_author_id=12724\">David Mitchell", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14208, 
+      "end_index": 14223, 
+      "extract": "Random House <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14231, 
+      "end_index": 14235, 
+      "extract": "00 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18985, 
+      "end_index": 19003, 
+      "extract": "A beautiful mind", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 19090, 
+      "end_index": 19103, 
+      "extract": "Kelly Blewett", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": 14243, 
+      "end_index": 14258, 
+      "extract": "9780812997392", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": 14276, 
+      "end_index": 14284, 
+      "extract": "11/2017", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }, 
+  "166": {
+    "$325": {
+      "begin_index": 14059, 
+      "end_index": 14061, 
+      "extract": "27", 
+      "rule_id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd"
+    }, 
+    "321": {
+      "begin_index": 14005, 
+      "end_index": 14017, 
+      "extract": "Steve Rushin", 
+      "rule_id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3"
+    }, 
+    "324": {
+      "begin_index": 14038, 
+      "end_index": 14054, 
+      "extract": "Little, Brown <", 
+      "rule_id": "3663243b-bde1-4388-8dd3-30ca7e464ab8"
+    }, 
+    "326": {
+      "begin_index": 14062, 
+      "end_index": 14066, 
+      "extract": "00 <", 
+      "rule_id": "b747959e-f988-415d-8394-bfdd6b6ff170"
+    }, 
+    "440": {
+      "begin_index": 18810, 
+      "end_index": 18838, 
+      "extract": "A kaleidoscope of memories", 
+      "rule_id": "a433e8e4-817b-482b-99aa-aa569be56443"
+    }, 
+    "445": {
+      "begin_index": 18925, 
+      "end_index": 18939, 
+      "extract": "Priscilla Kipp", 
+      "rule_id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d"
+    }, 
+    "ISBN327": {
+      "begin_index": 14074, 
+      "end_index": 14089, 
+      "extract": "9780316392235", 
+      "rule_id": "df52802c-1c68-4eea-a0b3-bb75ac171b42"
+    }, 
+    "Published07328": {
+      "begin_index": 14107, 
+      "end_index": 14115, 
+      "extract": "03/2017", 
+      "rule_id": "8d41912d-adde-4abc-a79a-0312b4c46421"
+    }
+  }
+}

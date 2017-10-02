@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "tld": "bookpage.com"
+  }, 
+  "rules": [
+    {
+      "begin_regex": "'\\>\\s+\\<div\\s+class='book\\-cover'\\>\\s+\\<img\\s+src=\"https:/.*?/medium\\.jpg\"\\s+alt=\"Medium\"\\s+/\\>\\s+\\</div\\>\\s+\\<div\\s+class=.*?\\</h4\\>\\s+\\<p\\s+class='author\\-small'\\>\\s+By\\s+\\<a\\s+href=\".*?/search\\?book_.*?author_id.*?\"\\>", 
+      "end_regex": "\\</a\\>\\s+\\</p\\>\\s+\\<p", 
+      "id": "cf4c6e40-8c8b-4113-931d-5f97e80e63d3", 
+      "include_end_regex": true, 
+      "name": "321", 
+      "removehtml": false, 
+      "rule_type": "ItemRule", 
+      "strip_end_regex": "\\</a\\>\\s+\\</p\\>\\s+\\<p"
+    }, 
+    {
+      "begin_regex": "/medium\\.jpg\"\\s+alt=\"Medium\"\\s+/\\>\\s+\\</div\\>\\s+\\<div\\s+class=.*?\\</h4\\>\\s+\\<p\\s+class='author\\-small'\\>\\s+By\\s+\\<a\\s+href=\".*?\\</a\\>\\s+\\</p\\>\\s+\\<p.*?\\>\\</p\\>.*?\\<p\\>", 
+      "end_regex": "br\\>\\s+\\$", 
+      "id": "3663243b-bde1-4388-8dd3-30ca7e464ab8", 
+      "include_end_regex": true, 
+      "name": "324", 
+      "removehtml": false, 
+      "rule_type": "ItemRule", 
+      "strip_end_regex": "br\\>\\s+\\$", 
+      "visible_chunk_after": "$"
+    }, 
+    {
+      "begin_regex": "/medium\\.jpg\"\\s+alt=\"Medium\"\\s+/\\>\\s+\\</div\\>\\s+\\<div\\s+class=.*?\\</h4\\>\\s+\\<p\\s+class='author\\-small'\\>\\s+By\\s+\\<a\\s+href=\".*?\\</a\\>\\s+\\</p\\>\\s+\\<p.*?\\>\\</p\\>.*?br\\>\\s+\\$", 
+      "end_regex": "\\.", 
+      "id": "8c60e18e-8682-4bb8-b29a-c35607bc71cd", 
+      "include_end_regex": true, 
+      "name": "$325", 
+      "removehtml": false, 
+      "rule_type": "ItemRule", 
+      "strip_end_regex": "\\.", 
+      "visible_chunk_after": ".", 
+      "visible_chunk_before": "$"
+    }, 
+    {
+      "begin_regex": "/medium\\.jpg\"\\s+alt=\"Medium\"\\s+/\\>\\s+\\</div\\>\\s+\\<div\\s+class=.*?\\</h4\\>\\s+\\<p\\s+class='author\\-small'\\>\\s+By\\s+\\<a\\s+href=\".*?\\</a\\>\\s+\\</p\\>\\s+\\<p.*?\\>\\</p\\>.*?br\\>\\s+\\$.*?\\.", 
+      "end_regex": "br\\>\\s+ISBN", 
+      "id": "b747959e-f988-415d-8394-bfdd6b6ff170", 
+      "include_end_regex": true, 
+      "name": "326", 
+      "removehtml": false, 
+      "rule_type": "ItemRule", 
+      "strip_end_regex": "br\\>\\s+ISBN", 
+      "visible_chunk_after": "ISBN"
+    }, 
+    {
+      "begin_regex": "/medium\\.jpg\"\\s+alt=\"Medium\"\\s+/\\>\\s+\\</div\\>\\s+\\<div\\s+class=.*?\\</h4\\>\\s+\\<p\\s+class='author\\-small'\\>\\s+By\\s+\\<a\\s+href=\".*?\\</a\\>\\s+\\</p\\>\\s+\\<p.*?\\>\\</p\\>.*?br\\>\\s+ISBN", 
+      "end_regex": "\\<br\\>\\s+Published\\s+07", 
+      "id": "df52802c-1c68-4eea-a0b3-bb75ac171b42", 
+      "include_end_regex": true, 
+      "name": "ISBN327", 
+      "removehtml": false, 
+      "rule_type": "ItemRule", 
+      "strip_end_regex": "\\<br\\>\\s+Published\\s+07", 
+      "visible_chunk_after": "Published 07", 
+      "visible_chunk_before": "ISBN"
+    }, 
+    {
+      "begin_regex": "/medium\\.jpg\"\\s+alt=\"Medium\"\\s+/\\>\\s+\\</div\\>\\s+\\<div\\s+class=.*?\\</h4\\>\\s+\\<p\\s+class='author\\-small'\\>\\s+By\\s+\\<a\\s+href=\".*?\\</a\\>\\s+\\</p\\>\\s+\\<p.*?\\<br\\>\\s+Published\\s+07.*?/", 
+      "end_regex": "\\</p\\>\\s+\\<p\\s+class='genre\\-links'\\>\\s+\\<a\\s+href=\"/", 
+      "id": "8d41912d-adde-4abc-a79a-0312b4c46421", 
+      "include_end_regex": true, 
+      "name": "Published07328", 
+      "removehtml": false, 
+      "rule_type": "ItemRule", 
+      "strip_end_regex": "\\</p\\>\\s+\\<p\\s+class='genre\\-links'\\>\\s+\\<a\\s+href=\"/", 
+      "visible_chunk_before": "Published 07"
+    }, 
+    {
+      "begin_regex": "header'\\>\\s+\\<p\\s+class='article\\-issue'\\>\\s+\\<a\\s+href=\"/print.*?\\</a\\>\\s+\\</p\\>\\s+\\<h1.*?\\</h1\\>\\s+\\<.*?h2\\>", 
+      "end_regex": "\\</h2\\>\\s+\\<p\\s+class='author\\-small'\\>\\s+BookPage\\s+review\\s+by\\s+\\<a\\s+href", 
+      "id": "a433e8e4-817b-482b-99aa-aa569be56443", 
+      "include_end_regex": true, 
+      "name": "440", 
+      "removehtml": false, 
+      "rule_type": "ItemRule", 
+      "strip_end_regex": "\\</h2\\>\\s+\\<p\\s+class='author\\-small'\\>\\s+BookPage\\s+review\\s+by\\s+\\<a\\s+href", 
+      "visible_chunk_after": "BookPage review by"
+    }, 
+    {
+      "begin_regex": "\\</h2\\>\\s+\\<p\\s+class='author\\-small'\\>\\s+BookPage\\s+review\\s+by\\s+\\<a\\s+href.*?=\"/search\\?.*?contributor_id.*?\"\\>", 
+      "end_regex": "\\</a\\>\\s+\\</p\\>\\s+\\<!\\-\\-\\s+AddThis\\s+Button\\s+BEGIN\\s+\\-\\-\\>\\s+\\<div", 
+      "id": "f96fe1c1-8a50-4b19-bf0f-1545481c4f2d", 
+      "include_end_regex": true, 
+      "name": "445", 
+      "removehtml": false, 
+      "rule_type": "ItemRule", 
+      "strip_end_regex": "\\</a\\>\\s+\\</p\\>\\s+\\<!\\-\\-\\s+AddThis\\s+Button\\s+BEGIN\\s+\\-\\-\\>\\s+\\<div"
+    }
+  ]
+}

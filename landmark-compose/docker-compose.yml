@@ -1,0 +1,44 @@
+version: '3'
+services:
+  landmark-mysql:
+    # build: ../landmark-mysql
+    image: inferlink/landmark-mysql
+    env_file:
+      - env/landmark-mysql.docker.env
+    ports:
+      - "3306:3306"
+  landmark-rest:
+    # build: ../landmark-rest/
+    image: inferlink/landmark-rest
+    env_file:
+      - env/landmark-rest.docker.env
+    volumes:
+      - data-volume:/var/landmark/s3-repo
+    ports:
+      - "5000:5000"
+    links:
+      - landmark-mysql
+      - landmark-kafka-consumer
+  landmark-portal:
+    # build: ../landmark-portal/
+    image: inferlink/landmark-portal
+    env_file:
+      - env/landmark-portal.docker.env
+    ports:
+     - "3333:3333"
+    links:
+      - landmark-rest
+  landmark-kafka-consumer:
+    # build: ../landmark-rest/
+    image: inferlink/landmark-rest
+    env_file:
+      - env/landmark-kafka-consumer.docker.env
+    volumes:
+      - data-volume:/var/landmark/s3-repo
+    links:
+      - landmark-mysql
+    environment:
+      WAIT_HOSTS: landmark-mysql:3306
+
+volumes:
+  data-volume:
